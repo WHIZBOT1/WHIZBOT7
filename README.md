@@ -8,7 +8,7 @@
 </br>
 
 <a 
-href="https://github.com/WHIZBOT1"><img title="Author" src="https://img.shields.io/badge/Author-Hitman47-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+href="https://github.com/WHIZBOT1"><img title="Author" src="https://img.shields.io/badge/Author-whizbot-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/WHIZBOT1/WHIZBOT7/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/WHIZBOT1/WHIZBOT7/fork"><img title="Forks" src="https://img.shields.io/github/forks/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/Dkhitman3/Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dkhitman3/Bot?label=watchers&color=54aeff&style=flat-square" /></a> <br>
@@ -68,7 +68,7 @@ _This project, curated by Whizbot 🌹, is an endeavor of passion. If you encoun
 HOW TO REACH THE OWNER? 👇👇👇
    <a href="https://wa.me/+18763351213?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  &nbsp;&nbsp;
    <a
 
 ## Thanks To♥️
