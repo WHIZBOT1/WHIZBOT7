@@ -1,5 +1,5 @@
 {
-  "name": "Hitman47",
+  "name": "whizbot",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
@@ -7,9 +7,9 @@
     "whatsapp-bot",
     "whatsapp-anime-bot"
   ],
-  "logo": "https://raw.githubusercontent.com/Dkhitman3/Hitman47/master/assets/images/hitman.png",
-  "website": "https://github.com/Dkhitman3/Bot#readme",
-  "repository": "https://github.com/Dkhitman3/Hitman47.git",
+  "logo": "https://telegra.ph/file/94a2f36bfa0cc40ed5505.jpg",
+  "website": "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l",
+  "repository": "https://github.com/WHIZBOT1/WHIZBOT7.git",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
