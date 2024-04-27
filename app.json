@@ -1,5 +1,5 @@
 {
-  "name": "whizbot",
+  "name": "WHIZBOT",
   "description": "A WhatsApp Bot written in TypeScript using Baileys.",
   "keywords": [
     "bot",
@@ -7,8 +7,8 @@
     "whatsapp-bot",
     "whatsapp-anime-bot"
   ],
-  "logo": "https://telegra.ph/file/94a2f36bfa0cc40ed5505.jpg",
-  "website": "https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l",
+  "logo": "https://telegra.ph/file/d50ddf7f801b404253fad.jpg",
+  "website": "https://github.com/WHIZBOT1/WHIZBOT7/blob/master/README.md",
   "repository": "https://github.com/WHIZBOT1/WHIZBOT7.git",
   "success_url": "/",
   "env": {
