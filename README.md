@@ -9,13 +9,13 @@
 
 <a 
 href="https://github.com/WHIZBOT1"><img title="Author" src="https://img.shields.io/badge/Author-Hitman47-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/Dkhitman3/Hitman47"><img title="Stars" src="https://img.shields.io/github/stars/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/WHIZBOT1/WHIZBOT7/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/WHIZBOT1/WHIZBOT7/fork"><img title="Forks" src="https://img.shields.io/github/forks/Dkhitman3/Hitman47?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/Dkhitman3/Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dkhitman3/Bot?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 1. **Fork the repo**
     <br>
-<a href='https://github.com/Dkhitman3/Hitman47/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/WHIZBOT1/WHIZBOT7/forks' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ---
 
@@ -48,11 +48,11 @@ href="https://github.com/WHIZBOT1"><img title="Author" src="https://img.shields.
 
 ## License✡️
 
-> Hitman47 is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Dkhitman3/Hitman47/tree/master?tab=readme-ov-file/blob/master/LICENSE)
+> whizbot is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/Dkhitman3/Hitman47/tree/master?tab=readme-ov-file/blob/master/LICENSE)
 
 ## Support 🧧
 
-<a href="https://chat.whatsapp.com/CrgPUQwW2LaGxzTC9ZjMbp">
+<a href="https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l">
   <img src="https://img.shields.io/badge/Support_Group-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
@@ -61,12 +61,12 @@ href="https://github.com/WHIZBOT1"><img title="Author" src="https://img.shields.
 ## 🎗Help
 Please give this repo a ⭐ if it helped you.
 
-## ✍︎ Hitman47 ♥️
+## ✍︎ whizbot ♥️
 
-*This is a lovely project by Hitman47 🌹. if you have a problem with this project go fuck yourself. After forking don't do any change. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an Owner*
+_This project, curated by Whizbot 🌹, is an endeavor of passion. If you encounter any issues, kindly refrain from altering the code after forking. To propose changes or seek assistance, please reach out to an owner by clicking on the provided WhatsApp icons to join our community groups._
  
 HOW TO REACH THE OWNER? 👇👇👇
-   <a href="https://wa.me/+27844132352?text=Hi%20I%20Am%20From%20GitHub%20☺️">
+   <a href="https://wa.me/+18763351213?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
@@ -74,11 +74,11 @@ HOW TO REACH THE OWNER? 👇👇👇
 ## Thanks To♥️
 * [`Shinei | Whatshell`](https://github.com/LuckyYam/)
 
-- 🌱 I’m currently learning **TS Language,B##**
+- 🌱 I’m currently learning **TS Language , *wsp*? B##**
 
-   🧧**I'm mot a developer**🧧
+🧧**I'm mot a wannabe coder**🧧
 
 **- 📫 easy to deploy this bot just tag deploy to Heroku that's all** 
 
-- ⚡ Fun fact **I Think I'm Funny.**
+- ⚡NOOB CODER JUST RUNNING PEOPLE SCRIPTS <hitman47>🤙
 - 
